@@ -60,4 +60,4 @@ const aboutMe = {
 </p>
 </h1>
 
-## ✨✨✨Enjoy a lot !!!
+##
