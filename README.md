@@ -6,7 +6,7 @@
 
 ## Welcome to my profile 😄
 
-I'm a Systems and Computer Engineer, I have worked as a Software Developer for more than 5 years
+Lets develop !!!!
 
 ```javascript
 const aboutMe = {
