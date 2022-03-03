@@ -6,7 +6,7 @@
 
 ## Welcome to my profile 😄
 
-Lets develop !!!!
+Let's develop !!!!
 
 ```javascript
 const aboutMe = {
