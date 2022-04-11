@@ -18,8 +18,8 @@ const aboutMe = {
          css: ["Materialize", "Bootstrap", "Material Design" ]
       },
       backEnd: {
-         java: [""],
-         Python: [""],
+         java: ["TestNG"],
+         Python: ["Pytest"],
          csharp: ["VBA"],
          misc: [ "Selenium"]
       },
