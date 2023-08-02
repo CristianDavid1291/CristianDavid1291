@@ -26,7 +26,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer"],
       mobile: ["Android"]
    },
-   currentOccupation: ["Robotization Developer at Comdata España & Latam"],
+   currentOccupation: ["Senior Test Automation Engineer at Capgemini"],
    challenge: "I love learning new things about everything!!",
 };
 ```
